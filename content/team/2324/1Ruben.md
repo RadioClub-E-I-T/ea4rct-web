@@ -2,7 +2,7 @@
 nombre: "Rubén Sanz Sánchez"
 pic: "/team/rsanz.jpeg"
 funcion: "Presidente"
-estudios: "Estudiante del grado en Ingeniería de Tecnologías y Servicios de Telecomunicación"
+estudios: "Máster Universitario en Teoría de la Señal y Comunicaciones "
 
 instagram: "https://www.instagram.com/ruben.sanz94/"
 correo: "presidencia@ea4rct.org"
