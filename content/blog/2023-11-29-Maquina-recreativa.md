@@ -13,7 +13,7 @@ categorias: [
   "Proyecto"
 ]
 author: Rubén Sanz Sánchez EA1FRA
-image: /proyectos/Recreativa/maquina13.jpg
+image: /proyectos/Recreativa/Maquina_hecha.jpg
 ---
 
 ## Introducción
